@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Hans! 🧑‍🔬 🐜
 
+
+- I'm a PhD student at Johannes Gutenberg University in Mainz, Germany. I study ants 
 <!--
 **hmer42/hmer42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
